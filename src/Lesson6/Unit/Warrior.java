@@ -1,6 +1,6 @@
-package Lesson6;
+package Lesson6.Unit;
 
-import Lesson06.online.models.Unit;
+import Lesson6.models.Unit;
 
 public class Warrior extends Unit {
 

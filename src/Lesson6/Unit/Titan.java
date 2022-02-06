@@ -1,4 +1,4 @@
-package Lesson6;
+package Lesson6.Unit;
 
 public class Titan extends Warrior {
 
