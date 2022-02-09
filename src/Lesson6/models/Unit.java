@@ -1,4 +1,4 @@
-package Lesson6.models;
+package Lesson6HW.models;
 
 public abstract class Unit {
 

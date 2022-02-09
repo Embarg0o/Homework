@@ -1,6 +1,6 @@
-package Lesson6.Unit;
+package Lesson6HW.Unit;
 
-import Lesson6.models.Unit;
+import Lesson6HW.models.Unit;
 
 public class Mage extends Unit {
 

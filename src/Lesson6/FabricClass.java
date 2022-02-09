@@ -1,10 +1,10 @@
-package Lesson6;
+package Lesson6HW;
 
-import Lesson6.models.Unit;
-import Lesson6.Unit.Archer;
-import Lesson6.Unit.Mage;
-import Lesson6.Unit.Titan;
-import Lesson6.Unit.Warrior;
+import Lesson6HW.Unit.Archer;
+import Lesson6HW.Unit.Mage;
+import Lesson6HW.Unit.Titan;
+import Lesson6HW.Unit.Warrior;
+import Lesson6HW.models.Unit;
 
 public class FabricClass {
 
