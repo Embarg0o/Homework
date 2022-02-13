@@ -1,2 +1,4 @@
-package Lesson8HW;public class HollowProject {
+package Lesson8HW;
+
+public class HollowProject {
 }
